@@ -1,11 +1,21 @@
-title: Coding the Humanities
+# Coding the Humanities
+## Expertisegroep Onderwijs 13-11-2013
 
 --
 
-### Overview
+### Summary
 
-+ Coding the Humanities is an initiative that approaches programming a humanities perspective
-+ First step: Course for all UvA humanities students
++ An initiative that approaches programming from a humanities perspective
+
+
+--
+
+### Background 
++ Background: Two MA-courses
+  + Jan Hein Hoogstad: Arts Science and Technology
+  + Marijn Koolen: 
++ Problem: Too late in Curriculum to do anything substantial
++ Next step: Course for all UvA humanities BA students
 
 --
 ### Curriculum
