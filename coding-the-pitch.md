@@ -6,16 +6,13 @@
 ### Summary
 
 + An initiative that approaches programming from a humanities perspective
-
-
---
-
-### Background 
 + Background: Two MA-courses
-  + Jan Hein Hoogstad: Arts Science and Technology
-  + Marijn Koolen: 
-+ Problem: Too late in Curriculum to do anything substantial
-+ Next step: Course for all UvA humanities BA students
+  + Jan Hein Hoogstad: Arts, Science and Technology
+  + Marijn Koolen: Digital Humanities 
++ Problem: Too late in curriculum to do anything substantial
++ Next steps: 
+   + Course for all UvA humanities BA students
+   + Coursera Course
 
 --
 ### Curriculum
@@ -23,11 +20,11 @@
 + Connection between Programming and Humanities Concepts
   + see first draft weekly schedule
 + Emphasis on language instead of computation
-+ Digital literacy means producing (custom) tools 
++ Digital literacy through producing (custom) tools 
 + Digital Humanities entails more than just Big Data
-+ Open Source new models and tools for collaboration 
-  + Source Control (Github)
-+ Javascript: Lingua franca of the Web
++ Open Source models and tools for collaboration (e.g. GitHub)
++ Javascript: 
+  + Lingua franca of the Web
   + Full-stack (frontend, backend, database)
 
 --
@@ -38,9 +35,9 @@
 	+ Online lessons, assignments, automatic and peer feedback
 	+ Offline peer-groups and large Q&A sessions
 	+ Online available at any time
-    + Staff and Students
-+ Open source: modular, re-usable
-+ Make better use of online learning possibilities
+    + Staff and students
++ Open, scalable, adaptive, modular, re-usable
++ Better use of online learning possibilities
 + More students, more personal feedback, less time-intensive
 
 --
@@ -48,20 +45,21 @@
 ### Opportunities
 
 + Demand for javascript developers on job market
-+ Online platform and curriculum is ideal for international collaboration
++ Online platform and open source curriculum is ideal for international collaboration
   + Stanford
   + UC Irvine
   + University of Virginia
-  + Humboldt University Berlinb
-+ Collaboration with Creative Industries (education, project, jobs)
-+ Opportunities for 'Valoratisation'
+  + Humboldt University Berlin
++ Reciprocal relation between Academia and (Creative) Industry
 
 --
 
 ### Schedule
 
 + Pilot: June 2014
++ DH Minor course: October 2014
 + Coursera: December 2014
-+ Set up:
++ Support and feedback:
   + Local Focus Group (now)
   + International Advisory Board (february 2014)
+
