@@ -1,8 +1,6 @@
 # Coding the Humanities
 ## Expertisegroep Onderwijs 13-11-2013
 
---
-
 ### Summary
 
 + An initiative that approaches programming from a humanities perspective
@@ -14,20 +12,21 @@
    + Course for all UvA humanities BA students
    + Coursera Course
 
---
+
 ### Curriculum
 
 + Connection between Programming and Humanities Concepts
-  + see first draft weekly schedule
+  + see appendix: first draft weekly schedule
 + Emphasis on language instead of computation
-+ Digital literacy through producing (custom) tools 
++ Focus on tools and their application
 + Digital Humanities entails more than just Big Data
-+ Open Source models and tools for collaboration (e.g. GitHub)
++ Digital literacy through producing rather than consumption 
++ Open Source models and tools for collaboration
+  + Version Control (GitHub)
 + Javascript: 
   + Lingua franca of the Web
   + Full-stack (frontend, backend, database)
 
---
 
 ### Platform
 
@@ -40,7 +39,6 @@
 + Better use of online learning possibilities
 + More students, more personal feedback, less time-intensive
 
---
 
 ### Opportunities
 
@@ -51,8 +49,8 @@
   + University of Virginia
   + Humboldt University Berlin
 + Reciprocal relation between Academia and (Creative) Industry
++ Possibilities for 'Valorisation'
 
---
 
 ### Schedule
 
@@ -62,4 +60,3 @@
 + Support and feedback:
   + Local Focus Group (now)
   + International Advisory Board (february 2014)
-
