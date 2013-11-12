@@ -1,11 +1,18 @@
-title: Coding the Humanities
+# Coding the Humanities
+## Expertisegroep Onderwijs 13-11-2013
 
 --
 
-### Overview
+### Summary
 
-+ Coding the Humanities is an initiative that approaches programming a humanities perspective
-+ First step: Course for all UvA humanities students
++ An initiative that approaches programming from a humanities perspective
++ Background: Two MA-courses
+  + Jan Hein Hoogstad: Arts, Science and Technology
+  + Marijn Koolen: Digital Humanities 
++ Problem: Too late in curriculum to do anything substantial
++ Next step: 
+   + Course for all UvA humanities BA students
+   + Coursera Course
 
 --
 ### Curriculum
@@ -17,7 +24,8 @@ title: Coding the Humanities
 + Digital Humanities entails more than just Big Data
 + Open Source new models and tools for collaboration 
   + Source Control (Github)
-+ Javascript: Lingua franca of the Web
++ Javascript: 
+  + Lingua franca of the Web
   + Full-stack (frontend, backend, database)
 
 --
@@ -29,8 +37,8 @@ title: Coding the Humanities
 	+ Offline peer-groups and large Q&A sessions
 	+ Online available at any time
     + Staff and Students
-+ Open source: modular, re-usable
-+ Make better use of online learning possibilities
++ Open, scalable, adaptive, modular, re-usable
++ Better use of online learning possibilities
 + More students, more personal feedback, less time-intensive
 
 --
@@ -38,13 +46,12 @@ title: Coding the Humanities
 ### Opportunities
 
 + Demand for javascript developers on job market
-+ Online platform and curriculum is ideal for international collaboration
++ Online platform and open source curriculum is ideal for international collaboration
   + Stanford
   + UC Irvine
   + University of Virginia
-  + Humboldt University Berlinb
-+ Collaboration with Creative Industries (education, project, jobs)
-+ Opportunities for 'Valoratisation'
+  + Humboldt University Berlin
++ Reciprocal relation between Academia and (Creative) Industry
 
 --
 
