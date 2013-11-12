@@ -1,5 +1,20 @@
+title: Coding the Humanities 
 --
 
-### Unidentified Flying Slideshow
+# Coding the Humanities
+## Expertisegroep Onderwijs 13-11-2013
 
-This slideshow contains no metadata!
+--
+
+### Tools
+
+--
+
+### Collaboration
+
+
+--
+
+### Platform
+
+
